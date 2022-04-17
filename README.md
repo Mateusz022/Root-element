@@ -1,5 +1,5 @@
 # Root-element
-- Program to calculate root square root and approximate value of the square root
+- Program to calculate root square and approximate value of the square root
 
 # Introduction
 - Program makes possible to calculate square roots ans approximate values
