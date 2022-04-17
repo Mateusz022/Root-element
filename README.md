@@ -2,7 +2,7 @@
 - Program to calculate root square and approximate value of the square root
 
 # Introduction
-- Program makes possible to calculate square roots ans approximate values
+- Program makes possible to calculate square roots and approximate values
 - It is helpful during Math or Physics learning to check if our results are correct
 - Program has short code and because of that is clear and easy to understand
 - Program is very attractive for people for whom calculating is not their cup of tea
